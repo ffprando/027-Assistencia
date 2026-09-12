@@ -11,7 +11,7 @@ const images = [
   // Logo hero - displayed at h-14 (56px) in navbar, h-36~h-56 in hero (desktop)
   ['logo-hero.png',          480, 480,  90],
   // Logo transparente - displayed at h-24 in footer, h-36~56 in hero
-  ['logo-transparente.png',  480, 480,  90],
+  ['logo-hero.png',  480, 480,  90],
   // Service carousel images - displayed at max ~800x600
   ['servico1.png',           900, 680,  82],
   ['servico2.png',           900, 680,  82],
